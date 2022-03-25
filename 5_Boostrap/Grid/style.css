@@ -1,0 +1,24 @@
+*{
+    border: 2px solid white;
+    color: white;
+}
+
+.bg-rojo{
+    background-color: red;
+}
+
+.bg-azul{
+    background-color:blue;
+}
+
+.bg-verde{
+    background-color: green;
+}
+
+.bg-pink{
+    background-color: rgb(163, 14, 113);
+}
+
+.bg-yelow{
+    background-color: rgb(153, 143, 6);
+}
